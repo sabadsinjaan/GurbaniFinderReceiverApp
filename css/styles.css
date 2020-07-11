@@ -1,0 +1,70 @@
+@font-face {
+  font-family: gurbaniakharthicktrue;
+  src: url(../fonts/gurbaniakharthicktrue-webfont.ttf);
+}
+
+@font-face {
+  font-family: prabhki;
+  src: url(../fonts/prabhki.ttf);
+}
+
+@font-face {
+  font-family: gurbaniakhar;
+  src: url(../fonts/gurbaniakhar.ttf);
+}
+
+@font-face {
+  font-family: gurhindi;
+  src: url(../fonts/gurhindi.ttf);
+}
+
+h1{
+font-family: gurbaniakhar;
+font-size: 500%;
+text-align: center;
+margin-top: 20px;
+margin-right: 10px;
+margin-left: 10px;
+margin-bottom: 10px;
+color: #006e94;
+display: block;
+word-wrap:break-word;
+}
+
+h2.a{
+font-family: gurhindi;
+font-size: 300%;
+text-align: center;
+margin-top: 20px;
+margin-right: 10px;
+margin-left: 10px;
+color: #006e94;
+display: block;
+word-wrap:break-word;
+}
+
+h2.b{
+font-family: gurbaniakhar;
+font-size: 300%;
+text-align: center;
+margin-top: 15px;
+margin-right: 10px;
+margin-left: 10px;
+color: #006e94;
+display: block;
+word-wrap:break-word;
+}
+
+hr{
+background-color: #006e94;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #006e94;
+   color: #d6f5ff;
+   text-align: center;
+}
